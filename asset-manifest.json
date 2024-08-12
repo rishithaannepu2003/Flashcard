@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/rishithaannepu2003/Flashcard/static/js/main.761e5ea7.chunk.js",
-    "main.js.map": "/rishithaannepu2003/Flashcard/static/js/main.761e5ea7.chunk.js.map",
-    "runtime-main.js": "/rishithaannepu2003/Flashcard/static/js/runtime-main.90de20a1.js",
-    "runtime-main.js.map": "/rishithaannepu2003/Flashcard/static/js/runtime-main.90de20a1.js.map",
-    "static/js/2.eefb5fae.chunk.js": "/rishithaannepu2003/Flashcard/static/js/2.eefb5fae.chunk.js",
-    "static/js/2.eefb5fae.chunk.js.map": "/rishithaannepu2003/Flashcard/static/js/2.eefb5fae.chunk.js.map",
-    "index.html": "/rishithaannepu2003/Flashcard/index.html",
-    "static/js/2.eefb5fae.chunk.js.LICENSE.txt": "/rishithaannepu2003/Flashcard/static/js/2.eefb5fae.chunk.js.LICENSE.txt"
+    "main.js": "/Flashcard/static/js/main.8126aebc.chunk.js",
+    "main.js.map": "/Flashcard/static/js/main.8126aebc.chunk.js.map",
+    "runtime-main.js": "/Flashcard/static/js/runtime-main.3fc7b26d.js",
+    "runtime-main.js.map": "/Flashcard/static/js/runtime-main.3fc7b26d.js.map",
+    "static/js/2.eefb5fae.chunk.js": "/Flashcard/static/js/2.eefb5fae.chunk.js",
+    "static/js/2.eefb5fae.chunk.js.map": "/Flashcard/static/js/2.eefb5fae.chunk.js.map",
+    "index.html": "/Flashcard/index.html",
+    "static/js/2.eefb5fae.chunk.js.LICENSE.txt": "/Flashcard/static/js/2.eefb5fae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90de20a1.js",
+    "static/js/runtime-main.3fc7b26d.js",
     "static/js/2.eefb5fae.chunk.js",
-    "static/js/main.761e5ea7.chunk.js"
+    "static/js/main.8126aebc.chunk.js"
   ]
 }
